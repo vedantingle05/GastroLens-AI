@@ -160,7 +160,7 @@ Multi-disease classification expansion
 
 👨‍💻 Contributors
 
-Rohan Wani
+Vedant Ingle
 
 
 📌 Note
